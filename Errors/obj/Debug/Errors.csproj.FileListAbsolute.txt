@@ -1,0 +1,7 @@
+C:\Users\sinitsyna\Desktop\папка для занятий с Виталей\Straitjacket\Errors\obj\Debug\Errors.csproj.AssemblyReference.cache
+C:\Users\sinitsyna\Desktop\папка для занятий с Виталей\Straitjacket\Errors\obj\Debug\Errors.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinitsyna\Desktop\папка для занятий с Виталей\Straitjacket\Errors\obj\Debug\Errors.csproj.CoreCompileInputs.cache
+C:\Users\sinitsyna\Desktop\папка для занятий с Виталей\Straitjacket\Errors\bin\Debug\Errors.exe
+C:\Users\sinitsyna\Desktop\папка для занятий с Виталей\Straitjacket\Errors\bin\Debug\Errors.pdb
+C:\Users\sinitsyna\Desktop\папка для занятий с Виталей\Straitjacket\Errors\obj\Debug\Errors.exe
+C:\Users\sinitsyna\Desktop\папка для занятий с Виталей\Straitjacket\Errors\obj\Debug\Errors.pdb
